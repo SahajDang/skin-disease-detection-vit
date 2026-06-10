@@ -161,14 +161,13 @@ The model is trained to classify multiple skin disease categories from dermoscop
 
 # 📊 Performance Metrics
 
-> Replace with your final model results.
-
-| Metric        | Score |
-| ------------- | ----- |
-| **Accuracy**  | XX%   |
-| **Precision** | XX    |
-| **Recall**    | XX    |
-| **F1 Score**  | XX    |
+| Metric | Score |
+|--------|-------|
+| **Final Accuracy** | **84.16%** |
+| **CNN Baseline Improvement** | **+17.16%** |
+| **Dataset** | ISIC 2018 |
+| **Disease Classes** | 7 |
+| **Architecture** | ViT-B16 |
 
 ---
 
