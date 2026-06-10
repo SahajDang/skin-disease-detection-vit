@@ -1,10 +1,6 @@
 # 🩺 Skin Disease Detection using Vision Transformer (ViT)
 
 <p align="center">
-  <img src="results/model_architecture.png" width="850">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge\&logo=tensorflow)
@@ -229,18 +225,37 @@ best_vit_model.keras (~992 MB)
 
 ---
 
-# 👨‍💻 Author
+# 👥 Project Team
 
-## Sahaj Dang
+This project was collaboratively developed as a **Capstone Project** by a team of three students from **DIT University, Dehradun**.
 
-**B.Tech in Data Science**
-Machine Learning | Deep Learning | Software Development
+| Name | Specialization | Role |
+|------|----------------|------|
+| **Sahaj Dang** | Data Science | Deep Learning, Model Development, Evaluation |
+| **Maniya Jain** | Artificial Intelligence & Machine Learning | Research, Model Optimization |
+| **Shreya Saxena** | Artificial Intelligence & Machine Learning | Analysis, Testing & Documentation |
 
+### 🎓 Academic Context
+- **University:** DIT University, Dehradun  
+- **Program:** B.Tech  
+- **Batch:** 2026
+- **Project Type:** Capstone Project
+
+---
+
+### Connect with the Team
+
+**Sahaj Dang**  
 GitHub: https://github.com/SahajDang
+
+**Maniya Jain**  
+GitHub: *(Add if available)*
+
+**Shreya Saxena**  
+GitHub: *(Add if available)*
 
 ---
 
 <p align="center">
 ⭐ If you found this project useful, consider giving it a star!
 </p>
-
