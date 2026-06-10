@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+tf_env/
+venv/
+env/
+
+# Dataset
+dataset/
+
+# Generated numpy files
+*.npy
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Ignore extra trained models
+*.keras
+!models/best_vit_model.keras
+
+# Zip files
+*.zip
+
+# Ignore huge model
+models/best_vit_model.keras
+
+# Ignore bulk prediction images
+results/correct/
+results/wrong/
