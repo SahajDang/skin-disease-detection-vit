@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge\&logo=tensorflow)
 ![Vision Transformer](https://img.shields.io/badge/Model-ViT-green?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Domain-Medical_AI-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </p>
@@ -37,12 +36,19 @@ to improve performance, robustness, and explainability.
 # 🚀 Key Features
 
 ✅ **Vision Transformer (ViT)-Based Classification**
+
 ✅ **Contrastive Fine-Tuning** for enhanced feature learning
+
 ✅ **Hard Sample Mining** for better robustness on difficult samples
+
 ✅ **Test-Time Augmentation (TTA)** for stronger prediction accuracy
+
 ✅ **Attention Visualization** for explainable AI (XAI)
+
 ✅ **Embedding Separability Analysis using t-SNE**
+
 ✅ **Confusion Matrix & Prediction Analysis**
+
 ✅ **Model Evaluation & Comparison Pipeline**
 
 ---
