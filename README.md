@@ -13,12 +13,19 @@ The project explores multiple architectures and optimization strategies to impro
 ## 🚀 Features
 
 ✅ Vision Transformer (ViT)-based classification
+
 ✅ Contrastive fine-tuning for better feature learning
+
 ✅ Hard sample mining for improved robustness
+
 ✅ Test Time Augmentation (TTA) for enhanced predictions
+
 ✅ Attention visualization for explainability (XAI)
+
 ✅ Embedding separability analysis using t-SNE
+
 ✅ Model comparison and evaluation pipeline
+
 ✅ Confusion matrix and prediction visualizations
 
 ---
